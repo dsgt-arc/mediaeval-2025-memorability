@@ -4,7 +4,7 @@
 
 This repository hosts our solution for **MediaEval 2025 Subtask 2: Commercial Memorability**.  The task asks teams to
 predict short-term memorability scores for advertising-style videos.  Organisers provide metadata, subtitles, derived
-visual features, and split definitions for a development set (with ground truth) plus a held-out test set.  Submissions
+visual features, a development set (with ground truth) plus a held-out test set.  Submissions
 are scored on Spearman correlation against the official annotations, with a focus on explainable methods and sensible
 feature engineering under resource constraints.
 
